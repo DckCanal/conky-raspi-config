@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=conky
+Comment=runs conky
+NoDisplay=true
+Exec=conky -b -c /home/pi/.config/.conkyrc
+NotShowIn=GNOME;KDE;XFCE;
